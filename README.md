@@ -19,9 +19,10 @@ A classe principal iPhone implementa essas três interfaces, reunindo todas as f
 🎨 Diagrama UML
 O diagrama UML a seguir ilustra a estrutura de classes e interfaces do projeto, representando o iPhone como uma classe que implementa três interfaces distintas.
 ### Diagrama UML
-![Diagrama UML](https://app.diagrams.net/#G1KZIYeRxxJ6oxa7ssbmQYb8YnYzlaHt4u#%7B%22pageId%22%3A%22CeC4wWjo5xOj9HhBFuX-%22%7D)
+![Desafio UML POO drawio](https://github.com/user-attachments/assets/26dc80aa-8b29-4359-a612-f18e897fe337)
 
 
 🌐 Ferramentas Utilizadas
 Ferramenta UML: Drawio
+
 Linguagem de Programação: Java
